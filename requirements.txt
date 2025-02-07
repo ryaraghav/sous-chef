@@ -1,0 +1,8 @@
+python-dotenv
+phidata
+openai
+exa_py
+newspaper4k
+lxml_html_clean #dependency for newspaper4k tool
+ipykernel
+ipywidgets
